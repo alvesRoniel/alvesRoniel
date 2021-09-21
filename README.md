@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo: REST, Angular, React, Azure, AWS...
 - 📫 Como entrar em contato comigo: roniel.alves@gmail.com ou (61)98257-1269.
 
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
