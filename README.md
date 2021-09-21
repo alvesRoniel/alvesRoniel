@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando na: Cast group Informática S.A. como desenvolvedor SR.
 - 🌱 Atualmente estou aprendendo: REST, Angular, React, Azure, AWS...
 - 📫 Como entrar em contato comigo: roniel.alves@gmail.com ou (61)98257-1269.
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+- [Blog](https://aprendendodotnet.wordpress.com/?ref=spelling) ✍🏼 - Estou escrevendo sobre muitas coisas..
 
 
 <!--
