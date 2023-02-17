@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim
 
-- 🔭 Atualmente estou trabalhando na: Cast group Informática S.A. como desenvolvedor SR.
+- 🔭 Atualmente estou trabalhando na: Mirante Tecnologia como desenvolvedor SR.
 - 🌱 Atualmente estou aprendendo: REST, Angular, React, Azure, AWS...
 - 📫 Como entrar em contato comigo: roniel.alves@gmail.com ou (61)98257-1269.
 - [Blog](https://aprendendodotnet.wordpress.com/?ref=spelling) ✍🏼 - Estou escrevendo sobre muitas coisas..
